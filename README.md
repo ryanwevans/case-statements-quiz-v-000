@@ -52,7 +52,7 @@ case
 ( ) C
 
 
-?: Of the following two examples, which is best case for a case statement:
+?: Of the following two examples, which example uses the case statement the best?:
 
 A: 
 
