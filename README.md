@@ -90,8 +90,8 @@ end
 
 ?: Which operator does a case statement use to compare the value to the conditions?
 
-( ) `=`
-( ) `==`
 (X) `===`
+( ) `==`
+( ) `=`
 
 ???
