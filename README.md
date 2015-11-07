@@ -12,7 +12,8 @@
 
 ?: Which of the following is a case statement
 
-( )
+A.
+
 ```ruby
 name = "Steven"
 
@@ -21,7 +22,9 @@ if name == "Steven"
 else
   puts "Hi, stranger!"
 ``` 
-(X)
+
+B.
+
 ```ruby
 name = "Steven"
 
@@ -34,7 +37,9 @@ case name
     puts "You have all the power!"
   end
 ``` 
-( )
+
+C.
+
 ```ruby
 def case
   puts "Am I a case statement?"
@@ -43,9 +48,14 @@ end
 case
 ```
 
+( ) A
+(X) B
+( ) C
+
 ?: Of the following two examples, which example uses the case statement the best?
 
-( )
+A.
+
 ```ruby
 name = "Steven"
 
@@ -57,8 +67,10 @@ case name
   when "Admin"
     puts "You have all the power!"
   end
-``` 
-(X)
+```
+
+B.
+
 ```ruby
 grade = 95
 
@@ -70,7 +82,12 @@ case grade
   when 0..60 then "F"
 end
 ```
-( ) Neither are good as case statements
+
+C. Neither are good as case statements
+
+( ) A
+(X) B
+( ) C
 
 ?: Which operator does a case statement use to compare the value to the conditions?
 
