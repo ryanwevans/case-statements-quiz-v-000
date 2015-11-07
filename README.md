@@ -1,4 +1,5 @@
-# Case Statements Quiz
+#Case Statements Quiz
+
 ## Objectives
 
 1. Distinguish a case statement from other patterns
@@ -9,7 +10,7 @@
 
 # Quiz
 
-?: Which of the following is a case statement:
+?: Which of the following is a case statement
 
 ( )
 ```ruby
@@ -42,7 +43,7 @@ end
 case
 ```
 
-?: Of the following two examples, which example uses the case statement the best?:
+?: Of the following two examples, which example uses the case statement the best?
 
 ( )
 ```ruby
