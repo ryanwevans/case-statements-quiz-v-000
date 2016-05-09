@@ -6,6 +6,9 @@
 2. Identify when to use a case statement
 3. Write a case statement
 
+
+**Note:** If you see concepts in the quiz that you might not have seen before, then Google it. Knowing how to look for information is an important part of being a good programmer so we're not going to always give you everything you need to figure out a problem; some of it will be on you. 
+
 ???
 
 # Quiz
