@@ -7,7 +7,7 @@
 3. Write a case statement
 
 
-**Note:** If you see concepts in the quiz that you might not have seen before, then Google it. Knowing how to look for information is an important part of being a good programmer so we're not going to always give you everything you need to figure out a problem; some of it will be on you. 
+**Note:** If you see concepts in the quiz that you might not have seen before, then Google it. Knowing how to look for information is an important part of being a good programmer so we're not going to always give you everything you need to figure out a problem; some of it will be on you.
 
 ???
 
@@ -23,7 +23,7 @@ if name == "Steven"
   "Hi, #{name}"
 else
   puts "Hi, stranger!"
-``` 
+```
 (X)
 ```ruby
 name = "Steven"
@@ -36,7 +36,7 @@ case name
   when "Admin"
     puts "You have all the power!"
   end
-``` 
+```
 ( )
 ```ruby
 def case
@@ -65,11 +65,12 @@ case name
 ```ruby
 grade = 95
 
+#--- Updated the ranges to each start at the next integer, because the two-dot range in ruby is inclusive.  Before this change, each range started with the same number that the range before ended with.  This was confusing and may cause students to choose the wrong answer (like I did :) ) ---#
 case grade
-  when 90..100 then "A" 
-  when 80..90 then "B"
-  when 70..80 then "C"
-  when 60..70 then "D"
+  when 91..100 then "A"
+  when 81..90 then "B"
+  when 71..80 then "C"
+  when 61..70 then "D"
   when 0..60 then "F"
 end
 ```
